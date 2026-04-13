@@ -41,6 +41,7 @@
 ## これから学びたいこと
 
 - React（フロントエンド強化）
+- Spring Boot
 - Node.js / API開発
 - データベース設計
 - インフラ（AWS / Linux）
