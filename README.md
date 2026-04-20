@@ -50,6 +50,16 @@
 
 ## プロジェクト
 
+https://github.com/w25019/dreaming-portfolio
+
+一年生のとき自分で作ったDreaming ウェブサイトです。
+
+使った言語
+-html
+-css
+-js
+
+
 
 
 
