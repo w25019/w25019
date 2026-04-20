@@ -50,15 +50,58 @@
 
 ## プロジェクト
 
-https://github.com/w25019/dreaming-portfolio
 
-一年生のとき自分で作ったDreaming ウェブサイトです。
+# 🌙 Dreaming Portfolio
 
-使った言語
--html
--css
--js
+## 🔗 Live Demo
+[Dreaming Portfolio を見る](https://w25019.github.io/dreaming-portfolio/)
 
+## 📝 概要
+ドリームキャッチャーをテーマにしたマルチページWebサイトです。  
+落ち着いたデザインと使いやすいUI/UXを意識して制作しました。
+
+## 🛠 技術スタック
+- HTML / CSS / JavaScript
+
+## 💡 主な機能
+- レスポンシブ対応
+- お問い合わせフォーム（入力チェック）
+- ログインUI（パスワード表示切替・localStorage）
+- モーダル表示（商品詳細）
+
+## 🎯 工夫した点
+- シンプルで直感的なナビゲーション設計
+- 色と余白で「落ち着き」を表現
+- JavaScriptでユーザー操作のフィードバックを強化
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Home Page</b></td>
+    <td align="center"><b>About Page</b></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./home_page.png" style="max-width:100%; max-height:300px;">
+    </td>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./about_page.png" style="max-width:100%; max-height:300px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Contact Page</b></td>
+    <td align="center"><b>Login Page</b></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./contact_page.png" style="max-width:100%; max-height:300px;">
+    </td>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./login_page.png" style="max-width:100%; max-height:300px;">
+    </td>
+  </tr>
+</table>
 
 
 
