@@ -54,7 +54,7 @@
 # 🌙 Dreaming Portfolio
 
 ## 🔗 Live Demo
-[Dreaming Portfolio を見る](https://w25019.github.io/dreaming-portfolio/)
+[Dreaming Portfolio を見る](https://github.com/w25019/dreaming-portfolio)
 
 ## 📝 概要
 ドリームキャッチャーをテーマにしたマルチページWebサイトです。  
