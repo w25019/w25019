@@ -176,14 +176,12 @@ Javaで開発したコンソールベースの銀行管理システムです。
       <img src="./after transfer.png" style="max-width:100%; max-height:300px;">
     </td>
   </tr>
-
-
     <tr>
-    <td align="center"><b>Incorrect withdraw</b></td>
-  </tr>
-  <tr>
     <td valign="top" align="center" style="height:300px;">
       <img src="./unavailable withdraw.png" style="max-width:100%; max-height:300px;">
+    </td>
+     <td valign="top" align="center" style="height:300px;">
+      <img src="./exit.png" style="max-width:100%; max-height:300px;">
     </td>
   </tr>
 </table>
