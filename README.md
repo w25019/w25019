@@ -107,7 +107,7 @@
 
 ## 🔗 Project Link
 
-[Bank Management System を見る]()
+[Bank Management System を見る](https://github.com/w25019/Bank)
 
 ## 📝 概要
 
@@ -141,27 +141,49 @@ Javaで開発したコンソールベースの銀行管理システムです。
 
 <table>
   <tr>
-    <td align="center"><b>Home Page</b></td>
-    <td align="center"><b>About Page</b></td>
+    <td align="center"><b>Opening New Account</b></td>
+    <td align="center"><b>View Account Details</b></td>
   </tr>
   <tr>
     <td valign="top" align="center" style="height:300px;">
-      <img src="./home_page.png" style="max-width:100%; max-height:300px;">
+      <img src="./Open a new acc.png" style="max-width:100%; max-height:300px;">
     </td>
     <td valign="top" align="center" style="height:300px;">
-      <img src="./about_page.png" style="max-width:100%; max-height:300px;">
+      <img src="./view account details.png" style="max-width:100%; max-height:300px;">
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Contact Page</b></td>
-    <td align="center"><b>Login Page</b></td>
+    <td align="center"><b>Deposit</b></td>
+    <td align="center"><b>Withdraw</b></td>
   </tr>
   <tr>
     <td valign="top" align="center" style="height:300px;">
-      <img src="./contact_page.png" style="max-width:100%; max-height:300px;">
+      <img src="./deposit.png" style="max-width:100%; max-height:300px;">
     </td>
     <td valign="top" align="center" style="height:300px;">
-      <img src="./login_page.png" style="max-width:100%; max-height:300px;">
+      <img src="./withdraw.png" style="max-width:100%; max-height:300px;">
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><b>Tansfer</b></td>
+    <td align="center"><b>Checking After Transferring</b></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./transfer.png" style="max-width:100%; max-height:300px;">
+    </td>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./after transfer.png" style="max-width:100%; max-height:300px;">
+    </td>
+  </tr>
+
+
+    <tr>
+    <td align="center"><b>Incorrect withdraw</b></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" style="height:300px;">
+      <img src="./unavailable withdraw.png" style="max-width:100%; max-height:300px;">
     </td>
   </tr>
 </table>
